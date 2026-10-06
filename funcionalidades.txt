@@ -1,0 +1,4 @@
+1. Cadastrar novos livros
+2. Consultar disponibilidade de títulos
+3. Registrar empréstimo de livros
+4. Controlar devoluções
